@@ -8,6 +8,7 @@ either accept or decline the order. If the manufacturer did not have the require
 it could order more from two different suppliers. The scenario followed a specified
 algorithm and the task was to see how one could generate the most profit from the
 scenario.
+
 The management of supply chains is integral to ensuring a manufacturer can make
 suitable profits. Due to the rise electronic marketplaces it is only reasonable to
 assume companies will resort to automated systems to deal with the huge number of
